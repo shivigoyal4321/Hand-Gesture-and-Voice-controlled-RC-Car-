@@ -45,8 +45,10 @@ It uses **ESP32 microcontrollers** for real-time wireless communication between 
 ---
 
 ## 🎥 Demo
-
-👉 Add your video link here (YouTube recommended)
+<video width="500" controls>
+  <source src="RC_Video/demo_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
