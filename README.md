@@ -49,7 +49,7 @@ It uses **ESP32 microcontrollers** for real-time wireless communication between 
   <source src="RC_Video/demo_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
+<a href="RC_Video/demo_video.mp4">▶️ Watch Demo Video</a>
 ---
 
 ## 🛠️ Components Used
